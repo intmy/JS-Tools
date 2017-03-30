@@ -9,4 +9,6 @@
 -----------------------------------------------------------------------------------
 
 
-[实用js库系列 - Microjs]http://microjs.com/#
+[实用js库系列 - Microjs] http://microjs.com/#
+
+[实用js库系列 - CDNjs] https://cdnjs.com/libraries
