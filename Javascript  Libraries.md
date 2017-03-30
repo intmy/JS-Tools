@@ -6,8 +6,7 @@
 
 [Favico.js](http://lab.ejci.net/favico.js/) Favicon加badge
 
-
-
+[Chance.js](http://chancejs.com/#hour)  一系列随机内容
 
 -----------------------------------------------------------------------------------
 
