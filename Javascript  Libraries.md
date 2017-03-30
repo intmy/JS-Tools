@@ -4,6 +4,9 @@
 
 [URL.js](http://jillix.github.io/url.js/?)  处理网址有关的库
 
+[Favico.js](http://lab.ejci.net/favico.js/) Favicon加badge
+
+
 
 
 -----------------------------------------------------------------------------------
